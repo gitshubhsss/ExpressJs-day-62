@@ -1,0 +1,12 @@
+{
+  "name": "day-62-nodejs",
+  "version": "1.0.0",
+  "description": "this is the first beckend project",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
